@@ -15,6 +15,8 @@
 To use `chess_game_stats` as a library, pass the PGN description to the `get_stats()` function.
 
 ```python
+from chess_game_stats import get_stats
+
 stats = get_stats(game_in_pgn)
 ```
 
