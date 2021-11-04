@@ -1,0 +1,20 @@
+[Event "Casual UltraBullet game"]
+[Site "https://lichess.org/QnXuuWSj"]
+[Date "2021.11.04"]
+[White "r4victor"]
+[Black "Anonymous"]
+[Result "0-1"]
+[UTCDate "2021.11.04"]
+[UTCTime "04:39:03"]
+[WhiteElo "1500"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "15+0"]
+[ECO "C20"]
+[Opening "King's Pawn Game"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%clk 0:00:15] } 1... e5 { [%clk 0:00:15] } { C20 King's Pawn Game } { White resigns. } 0-1
+
+

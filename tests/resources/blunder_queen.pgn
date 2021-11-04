@@ -1,0 +1,20 @@
+[Event "Casual UltraBullet game"]
+[Site "https://lichess.org/oMGCkbHc"]
+[Date "2021.11.04"]
+[White "r4victor"]
+[Black "Anonymous"]
+[Result "1-0"]
+[UTCDate "2021.11.04"]
+[UTCTime "07:43:38"]
+[WhiteElo "1500"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "15+0"]
+[ECO "B00"]
+[Opening "Pirc Defense"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%clk 0:00:15] } 1... d6 { [%clk 0:00:15] } { B00 Pirc Defense } 2. Qg4 { [%clk 0:00:10] } { Black resigns. } 1-0
+
+
